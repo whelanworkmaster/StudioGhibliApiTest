@@ -24,3 +24,10 @@
       flex: 1 1 calc(33% - 2rem);
     }
   }
+
+  #paginator{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 20px;
+  }
